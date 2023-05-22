@@ -35,7 +35,7 @@ Este é um bot do Telegram desenvolvido em Python usando a biblioteca python-tel
 
 3. Execute o programa Python.
 
-    python bot.py
+    python main.py
 
 4. Inicie uma conversa com o bot no Telegram.
 
