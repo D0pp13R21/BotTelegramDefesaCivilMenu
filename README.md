@@ -18,7 +18,7 @@ Este é um bot do Telegram desenvolvido em Python usando a biblioteca python-tel
 
 1. Clone o repositório ou faça o download do código-fonte.
 
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/D0pp13R21/BotTelegramDefesaCivilMenu
 
 
 2. Instale as dependências utilizando o pip:
